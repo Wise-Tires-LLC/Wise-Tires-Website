@@ -1,0 +1,449 @@
+	<!DOCTYPE html>
+	<html lang="en">
+	
+<!-- pageID 0 -->
+
+<head>
+    	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+			<script>
+			if (location.protocol != 'https:') {
+				location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+			};
+		</script>
+				<meta name="description" content="Error 404: Page Not Found. " />
+			<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Cache-control" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
+	<meta name="author" content="Wise Tires LLC" />
+	<meta name="robots" content="index, follow" />
+	<meta name="revisit-after" content="1 days" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Error 404: Page Not Found</title>
+			<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?f4b22a12f3e922d3a2df1c3e196feb9a" />
+		    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css?8a7442ca6bedd62cec4881040b9a9e83" />
+		<link rel="stylesheet" type="text/css" href="/css/bootstrap-btn.min.css?37d581f198d67562c1b43a59bd1c60e1" />
+		<link rel="stylesheet" type="text/css" href="/css/bootstrap-pagination.min.css?fd150f77f9043e1aeee030c1a0c6c90b" />	<link rel="stylesheet" type="text/css" href="/css/global.css?1700995d0f294d54a2cbbd664b6309a5" />
+	<link rel="stylesheet" type="text/css" href="/theme/style.css?v=62fd8d1bb871f46bf59679fd40aa73a3" />
+    <script src="https://kit.fontawesome.com/0bbbba98f5.js" crossorigin="anonymous"></script>
+    <link href='https://fonts.googleapis.com/css?family=Courgette' rel='stylesheet' type='text/css'>
+		<meta http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=EDGE" /> <!-- disable compat view -->
+				<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+						<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Yellowtail" />
+						<script type="text/javascript" src="/js/jquery.1.11.0.min.js?8fc25e27d42774aeae6edbc0a18b72aa"></script>
+						<script type="text/javascript" src="/js/bootstrap.min.js?ba847811448ef90d98d272aeccef2a95"></script>
+						<script type="text/javascript" src="/js/marquee.js?5fa39f6f57e71db2b0442473014ddca3"></script>
+						<script type="text/javascript" src="/js/marquee.js?5fa39f6f57e71db2b0442473014ddca3"></script>
+						<script type="text/javascript" src="/js/sticky-header.js?973c7dd37381371bad9247a784d33b0b"></script>
+						<script type="text/javascript" src="/js/app.js?e4800020071838730325c3679ee77ffa"></script>
+			        <script type="text/javascript" src="https://scontent.webcollage.net/api/v2/product-content"></script>
+        	<script type="text/javascript">var use_quote_wording=false;</script>
+	    <!-- recaptcha api js -->
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <!-- PDF Exporting js -->
+    <script type="text/javascript" src="http://canvg.github.io/canvg/rgbcolor.js"></script>
+    <script type="text/javascript" src="http://canvg.github.io/canvg/StackBlur.js"></script>
+    <script type="text/javascript" src="http://canvg.github.io/canvg/canvg.js"></script>
+    <script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/jspdf-autotable@3.5.4/dist/jspdf.plugin.autotable.js"></script>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PC8SPLP');</script>
+<!-- End Google Tag Manager -->
+
+<style>.movingElement:hover {
+transform: translate(0,-5px);
+-webkit-transform: translate(0,-5px); /** Chrome & Safari **/
+-o-transform: translate(0,-5px); /** Opera **/
+-moz-transform: translate(0,-5px); /** Firefox **/
+box-sizing: border-box;
+}
+.navbar-nav a {
+font-weight: 700;
+}
+.navbar-default .navbar-nav li .dropdown-menu li a {
+font-weight: 700;
+}
+.ctaContainer {
+background-color: #a8ff1e !important;
+color: white !important;
+}
+.cta {
+color: white !important;
+border: 1px solid white !important;
+}
+.cta:hover {
+background-color: white !important;
+color: #464545  !important;
+}
+@media(min-width: 1050px) {
+}
+.btn-primary {
+    background-color: #464545 !important;
+    border-color: #a8ff1e !important;
+    border-radius: 15px !important;
+}
+
+.btn-primary:hover {
+border-color: #a8ff1e !important;
+color: #464545 !important;
+background-color: white !important;
+</style>        <link rel="canonical" href="https://www.wisetires.net/" />
+        </head>
+<body>
+<a name="top" title=""></a>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PC8SPLP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;0,700;1,700&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+<style>
+
+    .tg-row-header-0{background-image:url("/uploads/raw/Ultimate%20Auto%20Safety/HeaderBG.png"); margin:0 auto 0 auto; padding:3em 0; }.tg-row-header-0 .tg-column-logo-0{}.tg-row-header-0 .tg-column-general-1{}.tg-row-header-0 .tg-column-general-1 a{color:white;} .tg-row-header-0 .tg-column-general-1 a:hover{color:#a8ff1e;} .tg-row-content-0{background-image:url("/uploads/raw/Ultimate%20Auto%20Safety/HeroBG.png"); margin:0 auto 0 auto; padding:2em 0; }.tg-row-content-0 .tg-column-general-0{color:white; }.tg-row-content-0 .tg-column-general-0 a{color:#a8ff1e;} .tg-row-content-0 .tg-column-general-0 a:hover{color:white;} .tg-row-content-0 .tg-column-general-1{}.tg-row-content-0 .tg-column-general-1 a{color:black;} .tg-row-content-0 .tg-column-general-1 a:hover{color:#a8ff1e;} .tg-row-content-1{background-color:black; margin:0 auto 0 auto; padding:2em 0; }.tg-row-content-1 .tg-column-general-0{color:white; }.tg-row-content-1 .tg-column-general-0 a{color:black;} .tg-row-content-1 .tg-column-general-0 a:hover{color:#a8ff1e;} .tg-row-content-2{background-color:black; margin:0 auto 0 auto; padding:1em 0; }.tg-row-content-2 .tg-column-general-0{}.tg-row-content-2 .tg-column-general-0 a{color:black;} .tg-row-content-2 .tg-column-general-0 a:hover{color:#a8ff1e;} .tg-row-content-2 .tg-column-general-1{}.tg-row-content-2 .tg-column-general-1 a{color:black;} .tg-row-content-2 .tg-column-general-1 a:hover{color:#a8ff1e;} .tg-row-content-2 .tg-column-general-2{}.tg-row-content-2 .tg-column-general-2 a{color:black;} .tg-row-content-2 .tg-column-general-2 a:hover{color:#a8ff1e;} .tg-row-content-2 .tg-column-general-3{}.tg-row-content-2 .tg-column-general-3 a{color:black;} .tg-row-content-2 .tg-column-general-3 a:hover{color:#a8ff1e;} .tg-row-content-3{background-color:black; padding:2em 0; }.tg-row-content-3 .tg-column-general-0{}.tg-row-content-3 .tg-column-general-0 a{color:black;} .tg-row-content-3 .tg-column-general-0 a:hover{color:#a8ff1e;} .tg-row-content-4{background-image:url("/uploads/raw/Ultimate%20Auto%20Safety/TireBG.png"); margin:0 auto 0 auto; padding:20px 0 50px 0; }.tg-row-content-4 .tg-column-general-0{color:white; }.tg-row-content-4 .tg-column-general-0 a{color:black;} .tg-row-content-4 .tg-column-general-0 a:hover{color:#a8ff1e;} .tg-row-content-5{background-image:url("/uploads/raw/Ultimate%20Auto%20Safety/HeroBG.png"); margin:0 auto 0 auto; padding:6em 0; }.tg-row-content-5 .tg-column-general-0{margin:50px 0 20px 0; }.tg-row-content-5 .tg-column-general-0 a{color:black;} .tg-row-content-5 .tg-column-general-0 a:hover{color:#a8ff1e;} .tg-row-content-5 .tg-column-coupons-1{}.tg-row-footer-0{margin:-20px 0 0 0; }.tg-row-footer-0 .tg-column-footer-menu-0{}.tg-row-footer-0 .tg-column-footer-menu-0 a{color:white;} .tg-row-footer-0 .tg-column-footer-menu-0 a:hover{color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-menu-0 .btn:hover{color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-menu-0 .btn{background-color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-menu-0 .btn{border-color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-menu-0 .btn{color:white;} .tg-row-footer-0 .tg-column-footer-menu-0 div{color:black;} .tg-row-footer-0 .tg-column-footer-menu-0 ul li::before{color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-contact-1{}.tg-row-footer-0 .tg-column-footer-contact-1 a{color:black;} .tg-row-footer-0 .tg-column-footer-contact-1 a:hover{color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-contact-1 .btn:hover{color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-contact-1 .btn{background-color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-contact-1 .btn{border-color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-contact-1 .btn{color:black;} .tg-row-footer-0 .tg-column-footer-contact-1 div{color:black;} .tg-row-footer-0 .tg-column-footer-contact-1 ul li::before{color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-hours-2{}.tg-row-footer-0 .tg-column-footer-hours-2 a{color:black;} .tg-row-footer-0 .tg-column-footer-hours-2 a:hover{color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-hours-2 .btn:hover{color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-hours-2 .btn{background-color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-hours-2 .btn{border-color:#a8ff1e;} .tg-row-footer-0 .tg-column-footer-hours-2 .btn{color:black;} .tg-row-footer-0 .tg-column-footer-hours-2 div{color:black;} .tg-row-footer-0 .tg-column-footer-hours-2 ul li::before{color:#a8ff1e;} .tg-row-footer-1{}
+    body{
+        background-color:black; font-size:16px; color:black; font-family:Poppins;     }
+
+    .fixed-img {
+        background-image: url("")    }
+
+    a {
+        color:black;     }
+
+    a:hover {
+        color:#a8ff1e;     }
+
+    .navbar-default .navbar-nav li a {
+        color:black;     }
+
+            .navbar-default .navbar-nav li a:hover,
+        .navbar-default .navbar-nav li a:focus,
+        .navbar-default .navbar-nav .open a:hover,
+        .navbar-default .navbar-nav .open a:focus {
+            color:white;         }
+
+    
+          .navbar-default .navbar-nav li .dropdown-toggle,
+      .navbar-default .navbar-nav .open a:hover,
+      .navbar-default .navbar-nav .open a:focus,
+      .navbar-default {
+        background-color:#a8ff1e;       }
+
+                .navbar-default .navbar-nav li .dropdown-menu {
+        background-color:#a8ff1e;     }
+      
+        .navbar-default .navbar-nav li .dropdown-menu li a {
+    color:black;     }
+    
+
+        .navbar-default .navbar-nav li .dropdown-menu li a:hover {
+    color:white;     }
+    
+    .footer-container {
+      color:white;     }
+
+    .footer-container a {
+        color:white;     }
+
+    .footer-container ul li a:hover {
+        color:#a8ff1e;     }
+
+    .footer-container ul li::before{
+        color: ;    }
+
+    .footer-container #footer-locations {
+        color: black;    }
+
+    .footer-container #footer-locations  a {
+        color:black;     }
+
+    .footer-container #footer-locations a:hover {
+        color:#a8ff1e;     }
+
+    
+</style>
+<div class="fixed-img"></div>
+
+
+<div class="header">
+
+    <div class="container-fluid">
+
+        <div class="normal-header-box">
+            
+    <div class="row">
+        <div class="tg-row tg-row-header-0">
+            <div class="container">
+              <div class="col-md-6">
+    <div class="tg-column tg-column-logo tg-column-logo-0 rounded-corners">
+        <div>
+        <div class="tg-content-block">
+        <p style="text-align: center;"><a title="Welcome to Wise Tires LLC" href="/"><img src="/uploads/raw/Wise%20Tires%20LLC/Wise3%20(1).png" alt="Welcome to Wise Tires LLC" width="100%" title="Welcome to Wise Tires LLC" /></a></p>    </div>
+</div>
+
+
+    </div>
+</div>
+<div class="col-md-6">
+    <div class="tg-column tg-column-general tg-column-general-1 rounded-corners">
+            <div class="tg-content-block">
+        <p class="MsoNormal" style="text-align: right;" align="right"><strong><span style="font-size: 24.0pt; line-height: 107%; font-family: 'Raleway ExtraBold',sans-serif; color: #a8ff1e;"><a title="Like us on Facebook!" href="https://www.facebook.com/3323NThompsonSpringdale/" target="_blank" rel="noopener noreferrer"><img src="/uploads/raw/Ultimate%20Auto%20Safety/FB.png" alt="Like us on Facebook!" width="24" height="24" title="Like us on Facebook!" /></a>&nbsp; &nbsp;<a title="Review us on Yelp!" href="https://www.yelp.com/biz/wise-tires-springdale-2" target="_blank" rel="noopener noreferrer"><img src="/uploads/raw/Ultimate%20Auto%20Safety/Yelp.png" alt="Review us on Yelp!" width="18" height="24" title="Review us on Yelp!" /></a>&nbsp; &nbsp;<a title="Find us on Google!" href="https://www.google.com/maps/place/WISE+TIRES+LLC./@36.2141387,-94.1372645,15z/data=!4m5!3m4!1s0x0:0x2cc2c4795f7db32e!8m2!3d36.2140754!4d-94.137377" target="_blank" rel="noopener noreferrer"><img src="/uploads/raw/Ultimate%20Auto%20Safety/GMB.png" alt="Find us on Google!" width="32" height="27" title="Find us on Google!" /></a></span></strong></p>
+<p class="MsoNormal" style="text-align: right;" align="right">&nbsp;</p>
+<p class="MsoNormal" style="text-align: right;" align="right"><span style="font-size: 24pt;"><a title="Call us today!" href="tel:218-736-2707"><strong><span style="line-height: 107%; font-family: 'Raleway ExtraBold', sans-serif; color: #a8ff1e;">(479)228-6782</span></strong></a></span></p>
+<p class="MsoNormal" style="text-align: right;" align="right">&nbsp;</p>
+<p class="MsoNormal" style="text-align: right;" align="right"><span style="font-size: 12pt;"><a title="Get driving directions to our location!" href="https://www.google.com/maps/dir//3323+N+Thompson+St,+Bethel+Heights,+AR+72764/@36.214275,-94.1395057,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87c914963d63a057:0x58f53f9ee302a741!2m2!1d-94.137317!2d36.214275?hl=en" target="_blank" rel="noopener noreferrer"><strong><span style="line-height: 107%; font-family: Raleway, sans-serif; color: white;">3323 N. THOMPSON ST. | SPRINGDALE, AR 72764</span></strong></a></span></p>    </div>
+    </div>
+</div>
+
+                            </div>
+        </div>
+
+
+    </div>
+
+        </div>
+
+            </div>
+
+</div>
+
+<div class="nav-container" >
+    <nav id="nav">
+        <div class="navbar navbar-default" style="">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Menu</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div><!-- /.navbar-header -->
+            <div class="navbar-collapse collapse hidden" id="headerMenu">
+                <ul>
+<li><a title="Welcome to Wise Tires LLC in Springdale, AR 72764" href="/">Home</a></li>
+<li><a title="Shop for Tires Today at Wise Tires LLC in Springdale, AR 72764" href="/searchtires">Shop for Tires</a></li>
+<li><a title="Automotive Services Available at Wise Tires LLC in Springdale, AR 72764" href="/automotive-services">Automotive Services</a></li>
+<li><a title="Acima Leasing Available at Wise Tires LLC in Springdale, AR 72764" href="/acima-leasing">Acima Leasing</a></li>
+<li><a title="Online Specials, Rebates and Coupons Available at Wise Tires LLC in Springdale, AR 72764" href="/coupons">Specials</a></li>
+<li><a title="About us at Wise Tires LLC in Springdale, AR 72764" href="/about-us">About Us</a>
+<ul>
+<li><a title="About us at Wise Tires LLC in Springdale, AR 72764" href="/about-us">About Us</a></li>
+<li><a title="Leave us a Review at Wise Tires LLC in Springdale, AR 72764" href="/ourreviews">Leave us a Review!</a></li>
+</ul>
+</li>
+<li><a title="Contact us at Wise Tires LLC in Springdale, AR 72764" href="/home/contact">Contact</a></li>
+</ul>            </div><!-- /.navbar-collapse.collapse -->
+        </div><!-- /.navbar.navbar-default -->
+    </nav><!-- /#nav -->
+</div>
+
+<script>
+    //Add necessary bootstrap classes to the header
+    $(document).ready(function() {
+       $('#headerMenu').removeClass('hidden');
+       var headerMenu = $('#headerMenu').children('ul');
+       headerMenu.addClass('nav navbar-nav');
+
+        var headerSubMenu = headerMenu.find('ul');
+        if(headerSubMenu) {
+            headerSubMenu.addClass('dropdown-menu');
+            headerSubMenu.parent().addClass('dropdown');
+
+            headerSubLink = headerSubMenu.siblings('a');
+            headerSubLink.addClass('dropdown-toggle');
+            headerSubLink.append('<span class="caret"></span>');
+            headerSubLink.attr('data-toggle', 'dropdown');
+        }
+    });
+</script>
+	<div class="container">
+        <div class="panel non-home">
+	<h1>Error 404: Page Not Found</h1><p>
+	We are sorry, but the page that you requested was not found.
+</p>
+
+<p>
+	<a href="/" class="btn btn-primary" title="Home Page">Home Page</a>
+			<a href="http://wisetires.tiresites.net/search/tires" class="btn btn-primary" title="Shop for Tires">Shop for Tires</a>
+			<a href="http://wisetires.tiresites.net/services" class="btn btn-primary" title="Browse Services">Browse Services</a>
+</p>
+	<div class="clearfix marquee-container">
+		<!-- carousel items -->
+		<div class="marquee">
+      <ul class="marquee-content-items">
+
+                                                  <li>
+                                        <a href="http://wisetires.tiresites.net/browse/tires/BFGoodrich-7" title="BFGoodrich®"><img
+                                                    src="https://cdn.tirelink.tireguru.net/images/mfgs/bfgoodrich.png"
+                                                    alt="BFGoodrich®" title="BFGoodrich®"/></a>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://wisetires.tiresites.net/browse/tires/Continental-11" title="Continental"><img
+                                                    src="https://cdn.tirelink.tireguru.net/images/mfgs/continental.png"
+                                                    alt="Continental" title="Continental"/></a>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://wisetires.tiresites.net/browse/tires/Firestone-1" title="Firestone"><img
+                                                    src="https://cdn.tirelink.tireguru.net/images/mfgs/Firestone_Logo.png"
+                                                    alt="Firestone" title="Firestone"/></a>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://wisetires.tiresites.net/browse/tires/Fuzion-113" title="Fuzion"><img
+                                                    src="https://cdn.tirelink.tireguru.net/images/mfgs/fuzion.jpg"
+                                                    alt="Fuzion" title="Fuzion"/></a>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://wisetires.tiresites.net/browse/tires/General-2" title="General"><img
+                                                    src="https://cdn.tirelink.tireguru.net/images/mfgs/General Tires.png"
+                                                    alt="General" title="General"/></a>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://wisetires.tiresites.net/browse/tires/Michelin-6" title="Michelin®"><img
+                                                    src="https://cdn.tirelink.tireguru.net/images/mfgs/MichelinLogo2017_181217105718.jpg"
+                                                    alt="Michelin®" title="Michelin®"/></a>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://wisetires.tiresites.net/browse/tires/Toyo-17" title="Toyo"><img
+                                                    src="https://cdn.tirelink.tireguru.net/images/mfgs/ToyoTiresNoTag_blue.jpg"
+                                                    alt="Toyo" title="Toyo"/></a>
+                                    </li>
+                                          </div>
+		</ul>
+	</div>
+		    </div><!-- .panel.non-home -->
+	</div><!-- /.container -->
+	
+<div class="footer container-fluid">
+    <div class="footer-container" style="background-color:black; ">
+    
+    <div class="row">
+        <div class="tg-row tg-row-footer-0">
+            <div class="container">
+              <div class="col-md-4">
+    <div class="tg-column tg-column-footer-menu tg-column-footer-menu-0 rounded-corners">
+        <h3>Navigation</h3><ul>
+<li><a title="Welcome to Wise Tires LLC in Springdale, AR 72764" href="/">Home</a></li>
+<li><a title="Shop for Tires Today at Wise Tires LLC in Springdale, AR 72764" href="/searchtires">Shop for Tires</a></li>
+<li><a title="Automotive Services Available at Wise Tires LLC in Springdale, AR 72764" href="/automotive-services">Automotive Services</a></li>
+<li><a title="Acima Leasing Available at Wise Tires LLC in Springdale, AR 72764" href="/acima-leasing">Acima Leasing</a></li>
+<li><a title="Online Specials, Rebates and Coupons Available at Wise Tires LLC in Springdale, AR 72764" href="/coupons">Specials</a></li>
+<li><a title="About us at Wise Tires LLC in Springdale, AR 72764" href="/about-us">About Us</a></li>
+<li><a title="Leave us a Review at Wise Tires LLC in Springdale, AR 72764" href="/ourreviews">Leave us a Review!</a></li>
+<li><a title="Contact us at Wise Tires LLC in Springdale, AR 72764" href="/home/contact">Contact</a></li>
+</ul>    </div>
+</div>
+<div class="col-md-4">
+    <div class="tg-column tg-column-footer-contact tg-column-footer-contact-1 rounded-corners">
+        <h3>Contact Us</h3><ul>
+          <li>
+            3323 N. Thompson St., Springdale, AR 72764 
+          </li>
+          <li>
+            479-228-6782
+          </li>
+          <li>
+             candywise20@gmail.com
+          </li>
+        </ul>    </div>
+</div>
+<div class="col-md-4">
+    <div class="tg-column tg-column-footer-hours tg-column-footer-hours-2 rounded-corners">
+        <h3>Working Hours</h3>            <ul>
+        <li>Monday to Saturday: 8:00am - 7:00pm</li><li>Sunday: 1:00pm - 6:00pm</li>            </ul>
+                    </div>
+</div>
+
+                            </div>
+        </div>
+
+
+    </div>
+
+
+    <div class="row">
+        <div class="tg-row tg-row-footer-1">
+            <div class="container">
+              
+                            </div>
+        </div>
+
+
+    </div>
+
+    </div>
+</div><!-- /.panel.footer -->
+
+     <div style="background-color:black; ; margin-top: -15px; margin-bottom: -15px;">
+         <div class="clear"></div>
+<div id="powered-by-container">
+	<div id="powered-by">
+		<div class="left">
+			<a href="http://www.tireguru.net" title="Powered by Tire Guru - http://www.tireguru.net">
+				<img src="/img/tire_guru_logo-dark.png?30c14d0b16c9de46dca70894e4b92bfb" alt="Powered by Tire Guru - http://www.tireguru.net" title="Powered by Tire Guru - http://www.tireguru.net" />
+			</a>
+		</div>
+		<div class="right">
+			<strong style="color: black !important">Copyright &copy; 2021 Tire Guru</strong><br>
+			<a href="http://www.tireguru.net" title="Powered by Tire Guru Tire Sites				Tire and automotive dealer websites"><strong>Powered by Tire Guru Tire Sites</strong><br>
+				Tire and automotive dealer websites
+			</a>
+		</div>
+
+	</div>
+</div>
+    <div class="center accessibility">
+        <a href="/home/accessibility" title="Having Trouble Viewing our Site?">Having Trouble Viewing our Site?</a>
+    </div>
+    </div>
+    	<script type="text/javascript">
+		$(document).ready(function() {
+			$(function (){ createMarquee({
+              duration:60000,
+              padding: 25,
+  		        marquee_class:'.marquee',
+              container_class: '.marquee-container'});});		});
+	</script>
+	
+<!--tire search javascript-->
+<script type="text/javascript" src="/js/tire-search.js"></script>
+
+<!--Tires Anytime Tire Search Java Script, if applicable-->
+    <script>
+        $('.customPhoneNumberGA').on('click', function() {
+            ga('globalTracker.send', 'pageview', '/TG-532/'+window.location.href.replace(/^https?:\/\/([^\/]+)(.*)/, '$1')+'/vpv/telephone/479-228-6782')        })
+
+        $('.customAddressGA').on('click', function() {
+            ga('globalTracker.send', 'pageview', '/TG-532/'+window.location.href.replace(/^https?:\/\/([^\/]+)(.*)/, '$1')+'/vpv/vpv/map')        })
+    </script>
+    
+</body>
+</html>
+<!-- 0.6009s / 21.36MB mem -->
+<style>
+    .copywriteContainer {
+        width: 100%;
+        text-align: center;
+        padding-top: 5px;
+    }
+    .copywrite {
+        font-size: small;
+        font-weight: 300;
+        display: inline-block;
+        padding: 5px;
+    }
+    .copywriteText {
+        color: revert !important;
+    }
+
+</style>
+<div class="copywriteContainer" style="background-color:black; ">
+    <p class="copywrite">
+        <a href="/home/copywrite" class="copywriteText" title="Copyright &copy; American Business Management Systems, Inc.">Copyright &copy; American Business Management Systems, Inc.</a>
+    </p>
+</div>
+

@@ -1,0 +1,2749 @@
+/**
+ * Global stylesheet
+ * $Id$
+ */
+
+#mobile-link
+{
+    font-size: 14px;
+    font-weight: bold;
+
+    position: absolute;
+    z-index: 99999;
+    top: 5px;
+    left: 5px;
+
+    padding: 10px;
+
+    border: solid 2px #444;
+    background: #eee;
+}
+
+.content p,
+.ui-widget-content p
+{
+    margin-bottom: 1.1em;
+}
+
+fieldset
+{
+    margin: 5px;
+}
+
+fieldset legend
+{
+    font-weight: bold;
+
+    margin-bottom: 5px;
+    padding: 3px 5px;
+
+    border: solid 1px #999;
+    background: #b5cfd2 url('http://tireguru-store-sites.s3.amazonaws.com/assets/img/table-head.png');
+}
+
+.account-location
+{
+    padding-left: 15px;
+
+    border-left: solid 1px #000;
+}
+
+.order_location,
+.requested_item
+{
+    padding: 10px;
+
+    border: solid 1px #000;
+    background: #f9f9f9;
+}
+
+.order_location
+{
+    float: left;
+
+    margin: 20px 50px;
+}
+
+.requested_item
+{
+    width: 650px;
+    margin: 20px 50px;
+}
+
+.requested_item .left
+{
+    margin-right: 20px;
+}
+
+.requested_item img
+{
+    max-width: 175px;
+    max-height: 150px;
+}
+
+.content
+{
+    padding: 15px 0 10px 5px;
+}
+
+.social-icon
+{
+    float: right;
+}
+
+.red
+{
+    color: red;
+}
+
+.italic
+{
+    font-style: italic;
+}
+
+img.middle
+{
+    vertical-align: middle;
+}
+
+img.item-thumb
+{
+    max-width: 50px;
+    max-height: 75px;
+}
+
+hr
+{
+    height: 1px;
+
+    color: #000;
+    border: 0;
+    background-color: #000;
+}
+
+ul#seo_menu li
+{
+    font-size: 1.25em;
+
+    margin: 5px 0;
+}
+
+/* Anti Spam Hidden */
+/* used on honeypot form fields */
+.hpf
+{
+    display: none;
+}
+
+/* hide nivo slider captions */
+.nivo-caption
+{
+    top: -1000px !important;
+    left: -1000px !important;
+
+    display: none !important;
+}
+
+/* force the nivo image to always be 240px high */
+.nivo-main-image
+{
+    max-height: 240px;
+}
+
+/* button style */
+/* these are red by default */
+.button
+{
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 110%;
+
+    display: inline-block;
+
+    padding: 4px 9px;
+
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+
+    color: #fff !important;
+    -webkit-border-top-left-radius: 15px;
+    -moz-border-radius-topleft: 15px;
+            border-top-left-radius: 15px;
+    -webkit-border-top-right-radius: 15px;
+    -moz-border-radius-topright: 15px;
+            border-top-right-radius: 15px;
+    -webkit-border-bottom-right-radius: 15px;
+    -moz-border-radius-bottomright: 15px;
+            border-bottom-right-radius: 15px;
+    -webkit-border-bottom-left-radius: 15px;
+    -moz-border-radius-bottomleft: 15px;
+            border-bottom-left-radius: 15px;
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(.05, #c41230), color-stop(1, #8f0d23) );
+    background: -moz-linear-gradient( center top, #c41230 5%, #8f0d23 100% );
+    background-color: #c41230;
+
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c41230', endColorstr='#8f0d23');
+}
+.button:before
+{
+    content: url('http://tireguru-store-sites.s3.amazonaws.com/assets/img/button-arrow.png');
+}
+.button:hover
+{
+    text-decoration: none;
+
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(.05, #8f0d23), color-stop(1, #c41230) );
+    background: -moz-linear-gradient( center top, #8f0d23 5%, #c41230 100% );
+    background-color: #8f0d23;
+
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8f0d23', endColorstr='#c41230');
+}
+.button:active
+{
+    position: relative;
+    top: 1px;
+}
+
+
+/* locations footer box */
+#footer-locations-container
+{
+    margin: 15px 0;
+}
+
+#footer-locations
+{
+    font-size: 12px;
+    line-height: 17px;
+
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 5px;
+
+    border: solid 1px #999;
+    background: #f4f4f4;
+}
+
+#footer-locations .footer-location
+{
+    float: left;
+
+    min-height: 110px;
+    margin: 5px;
+
+    border-bottom: solid 1px #999;
+}
+
+#footer-locations .footer-location-image
+{
+    float: left;
+
+    width: 85px;
+    margin: 5px;
+}
+
+#footer-locations .footer-location-image img
+{
+    width: 75px;
+
+    border: solid 1px #666;
+}
+
+#footer-locations .footer-location div.footer-location-info
+{
+    float: left;
+
+    width: 320px;
+    margin: 5px;
+}
+
+.footer-services
+{
+    font-size: 10px;
+}
+
+/* "Powered by Tire Guru" footer box */
+#powered-by-container
+{
+    height: 55px !important;
+    margin: 15px 0 !important;
+}
+
+#powered-by
+{
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    font-size: 12px !important;
+    line-height: 15px !important;
+
+    width: 300px !important;
+    overflow: hidden !important;
+    margin: 0 auto 15px !important;
+    padding: 5px !important;
+
+    border: solid 1px #999 !important;
+    background: #f4f4f4 !important;
+}
+
+#powered-by div
+{
+    margin-top: 5px !important;
+}
+
+#powered-by .bottom {
+    padding: 5px 0 0 0;
+    clear: both;
+}
+
+#powered-by img
+{
+    width: 75px !important;
+}
+
+#powered-by a
+{
+    text-decoration: underline !important;
+
+    color: #000 !important;
+}
+
+#powered-by a:hover,
+#powered-by a:focus
+{
+    text-decoration: underline !important;
+
+    color: #f1662c !important;
+}
+
+.accessibility {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    font-size: 12px !important;
+    line-height: 15px !important;
+
+    width: 300px !important;
+    overflow: hidden !important;
+    margin: 0 auto 15px !important;
+    padding: 5px !important;
+    text-decoration: underline;
+
+    border: solid 1px #999 !important;
+    background: #f4f4f4 !important;
+}
+
+.accessibility a {
+    text-decoration: underline !important;
+
+    color: #000 !important;
+}
+
+.accessibility a:hover,
+.accessibility a:focus {
+    color: #005caa !important;
+}
+
+.underline {
+    text-decoration: underline !important;
+}
+
+.required {
+    color: red;
+}
+
+/* list font sizes */
+
+ul.list-med li
+{
+    font-size: 15px;
+
+    margin: 5px;
+}
+
+ul.list-large li
+{
+    font-size: 20px;
+
+    margin: 5px;
+}
+
+/* The Tire Finder */
+.ttf-link
+{
+    float: left;
+
+    cursor: pointer;
+}
+.ttf-btm
+{
+    float: left;
+
+    width: 315px;
+    height: 170px;
+    padding: 5px;
+}
+.ttf-btm .label
+{
+    font-size: 100%;
+
+    float: left;
+
+    width: 90px;
+    margin: 0 0 15px 10px;
+
+    text-align: left;
+}
+.ttf-size select,
+.ttf-license select,
+.ttf-license input[type='text']
+{
+    font-size: 12px;
+
+    width: 190px;
+
+    border: 1px solid #777;
+    background: #fff scroll 0 0;
+}
+
+/* "about us" quote */
+.about blockquote
+{
+    display: block;
+
+    height: 51px;
+    padding: 50px 40px 0 60px;
+}
+
+.about blockquote p
+{
+    font: italic 17px/20px arial !important;
+
+    width: 425px;
+
+    color: #848282;
+}
+
+.about cite
+{
+    position: relative;
+
+    display: block;
+    clear: both;
+
+    padding-left: 385px;
+
+    color: #666;
+}
+
+a#header-location
+{
+    text-decoration: none;
+
+    color: white;
+}
+
+.placeholder
+{
+    color: #aaa;
+}
+.center
+{
+    text-align: center;
+}
+.text-left
+{
+    text-align: left;
+}
+.text-right
+{
+    text-align: right;
+}
+.bold
+{
+    font-weight: bold;
+}
+.gray
+{
+    color: #bbb;
+}
+
+.left-pad25
+{
+    padding-left: 25px;
+}
+.no-padding
+{
+    padding: 0;
+}
+.no-margin
+{
+    margin: 0;
+}
+
+.btn
+{
+    margin: 2px 0;
+
+    text-decoration: none;
+}
+
+.btn-default
+{
+    font-weight: bold !important;
+
+    border-color: #357ebd !important; /* same color as btn-primary background */
+}
+
+.btn-success,
+.btn-primary,
+.btn-danger,
+.btn-info
+{
+    font-weight: bold !important;
+
+    color: #fff !important;
+}
+
+.btn-vehicle
+{
+    width: 100px;
+}
+
+/* hide the close button on jQuery UI dialogs */
+.no-close .ui-dialog-titlebar-close
+{
+    display: none;
+}
+
+/*****************
+ * message boxes *
+ *****************/
+
+.info,
+.success,
+.warning,
+.error
+{
+    width: 500px;
+    margin: 10px 0;
+    padding: 5px 5px 5px 35px;
+
+    border: 1px solid;
+    background-repeat: no-repeat;
+    background-position: 5px center;
+}
+
+.info
+{
+    color: #00529b;
+    background-color: #bde5f8;
+    background-image: url('http://tireguru-store-sites.s3.amazonaws.com/assets/img/info.png');
+}
+
+.success
+{
+    color: #4f8a10;
+    background-color: #dff2bf;
+    background-image: url('http://tireguru-store-sites.s3.amazonaws.com/assets/img/success.png');
+}
+
+.warning
+{
+    color: #9f6000;
+    background-color: #feefb3;
+    background-image: url('http://tireguru-store-sites.s3.amazonaws.com/assets/img/warning.png');
+}
+
+.error
+{
+    color: #74050b;
+    background-color: #ffbaba;
+    background-image: url('http://tireguru-store-sites.s3.amazonaws.com/assets/img/error.png');
+}
+
+.info ul,
+.success ul,
+.warning ul,
+.error ul
+{
+    margin: 1px;
+    padding: 0;
+
+    list-style: disc inside;
+}
+
+.info.financing
+{
+    font-size: 14px;
+
+    width: 80%;
+}
+
+.info.financing small
+{
+    font-size: 9px;
+}
+
+/* vehicle lookup */
+.vehicle-horizontal div,
+.vehicle-vertical div
+{
+    margin: 5px;
+}
+.vehicle-horizontal div
+{
+    display: inline;
+}
+.vehicle-home
+{
+    margin-top: 15px;
+}
+.vehicle-home div
+{
+    height: 22px;
+}
+.vehicle-home select
+{
+    font-size: 12px;
+
+    width: 266px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: 7px;
+    padding-left: 8px;
+
+    color: #262567;
+    border: 1px solid #777;
+    background: #fff scroll 0 0;
+}
+
+.align-left
+{
+    text-align: left !important;
+}
+.align-right
+{
+    text-align: right !important;
+}
+
+/* grid */
+.left
+{
+    float: left;
+}
+.right
+{
+    float: right;
+}
+.clear
+{
+    clear: both;
+}
+.clearfix:after
+{
+    display: table;
+    clear: both;
+
+    content: '';
+}
+.span-50
+{
+    float: left;
+
+    width: 50px;
+}
+.span-150
+{
+    float: left;
+
+    width: 150px;
+}
+.span-175
+{
+    float: left;
+
+    width: 175px;
+}
+.span-180
+{
+    float: left;
+
+    width: 180px;
+}
+.span-200
+{
+    float: left;
+
+    width: 200px;
+}
+.span-205
+{
+    float: left;
+
+    width: 205px;
+}
+.span-230
+{
+    float: left;
+
+    width: 230px;
+}
+.span-250
+{
+    float: left;
+
+    width: 250px;
+}
+.span-275
+{
+    float: left;
+
+    width: 275px;
+}
+.span-300
+{
+    float: left;
+
+    width: 300px;
+}
+.span-315
+{
+    float: left;
+
+    width: 315px;
+}
+.span-320
+{
+    float: left;
+
+    width: 320px;
+}
+.span-340
+{
+    float: left;
+
+    width: 340px;
+}
+.span-350
+{
+    float: left;
+
+    width: 350px;
+}
+.span-400
+{
+    float: left;
+
+    width: 400px;
+}
+.span-410
+{
+    float: left;
+
+    width: 410px;
+}
+.span-450
+{
+    float: left;
+
+    width: 450px;
+}
+.span-500
+{
+    float: left;
+
+    width: 500px;
+}
+.span-550
+{
+    float: left;
+
+    width: 550px;
+}
+.span-600
+{
+    float: left;
+
+    width: 600px;
+}
+.span-610
+{
+    float: left;
+
+    width: 610px;
+}
+.span-650
+{
+    float: left;
+
+    width: 650px;
+}
+.span-700
+{
+    float: left;
+
+    width: 700px;
+}
+.span-710
+{
+    float: left;
+
+    width: 710px;
+}
+.span-960
+{
+    float: left;
+
+    width: 960px;
+}
+.span-980
+{
+    float: left;
+
+    width: 980px;
+}
+
+/* grid customizations */
+.span-230 ul
+{
+    margin: 0 15px 5px 15px;
+    padding: 0;
+}
+.span-230 ul li
+{
+    margin: 0;
+    padding: 0;
+}
+.span-230 h4
+{
+    font-size: 18px;
+
+    margin: 0;
+    padding: 0;
+}
+.span-230 a:hover
+{
+    color: #fbdb1d;
+}
+.span-340
+{
+    float: left;
+
+    width: 340px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+/***************
+ * search page *
+ ***************/
+
+#search-container .tabs,
+#search-container .forms
+{
+    float: left;
+}
+
+#search-container .tabs
+{
+    margin-top: 25px;
+}
+
+#search-container .tabs .tab
+{
+    font-size: 20px;
+    line-height: 50px;
+
+    width: 250px;
+    height: 52px;
+    padding-left: 10px;
+
+    cursor: pointer;
+
+    color: #fff;
+    border-top: solid 1px #999;
+    border-right: 0;
+    border-left: solid 1px #999;
+    background-color: #666;
+}
+
+#search-container .tabs .tab.top-tab
+{
+    border-top-left-radius: 10px;
+}
+
+#search-container .tabs .tab.bottom-tab
+{
+    border-bottom: solid 1px #999;
+    border-bottom-left-radius: 10px;
+}
+
+#search-container .tabs .active-tab
+{
+    color: #000;
+    background-color: #fff;
+}
+
+#search-container .tabs .active-tab span.glyphicon
+{
+    line-height: 50px;
+
+    display: inline;
+    float: right;
+}
+
+#search-container .tabs .tab:not(.active-tab) span.glyphicon
+{
+    display: none;
+}
+
+#search-container .forms
+{
+    width: 500px;
+    height: 300px;
+    margin-left: 0;
+    padding: 10px;
+
+    border: solid 1px #000;
+    border-radius: 5px;
+    background: url(/img/stacked-tires.png) top right no-repeat;
+    background: url(/img/stacked-tires.png) no-repeat top right;
+}
+
+#search-container .forms .form label
+{
+    display: inline-block;
+
+    width: 100px;
+}
+
+#search-container .forms .form select,
+#search-container .forms .form input
+{
+    width: 150px;
+}
+
+@media (max-width: 767px)
+{
+    #search-container .forms
+    {
+        background: url(/img/stacked-tires-transparent.png) top right no-repeat;
+    }
+}
+
+@media screen and (max-width:991px)
+{
+    #search-container .tabs
+    {
+        margin-top: 0;
+    }
+
+    #search-container .forms
+    {
+        border-top-left-radius: 0;
+    }
+
+    #search-container .tabs .tab
+    {
+        font-size: 16px;
+
+        float: left;
+
+        width: auto;
+        padding-right: 10px;
+
+        border-right: solid 1px #999;
+        border-bottom: solid 1px #999;
+    }
+
+    #search-container .tabs .tab.top-tab
+    {
+        border-top-left-radius: 10px;
+    }
+
+    #search-container .tabs .tab.bottom-tab
+    {
+        border-bottom: solid 1px #999;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0;
+    }
+
+    #search-container .tabs span,
+    #search-container .tabs .active-tab span.glyphicon
+    {
+        display: none;
+    }
+
+    #search-container .forms
+    {
+        width: 90%;
+    }
+
+    #search-container .forms .form select,
+    #search-container .forms .form input
+    {
+        width: 150px;
+        height: 30px;
+    }
+}
+
+/******************
+ * search results *
+ ******************/
+
+/* force jQuery UI dialogs to be on top */
+.ui-front
+{
+    z-index: 1000000 !important; /* default is 100 */
+}
+
+#vehicle_packages select
+{
+    width: 150px;
+}
+
+.submit-button
+{
+    width: 269px;
+    height: 31px;
+    margin: 7px 0 0 5px;
+
+    cursor: pointer;
+
+    border: medium none;
+}
+
+#ymmt_hold
+{
+    font-size: 12px;
+    font-weight: bold;
+
+    width: 269px;
+
+    text-align: center;
+
+    color: #b80000;
+}
+
+#container_Start
+{
+    width: 967px;
+    margin: auto;
+}
+#container_left
+{
+    float: left;
+
+    width: 185px;
+}
+.container_Start
+{
+    width: 100%;
+    margin-top: 14px;
+    margin-bottom: 8px;
+}
+.refine
+{
+    border-bottom: #000 dotted 1px;
+}
+.input
+{
+    float: left;
+
+    margin: 9px 9px 9px 5px;
+}
+.inputs
+{
+    float: left;
+
+    width: 163px;
+    margin: 3px;
+}
+.container_Start_all
+{
+    float: left;
+
+    width: 100%;
+}
+#container_right
+{
+    float: left;
+
+    width: 779px;
+    margin-bottom: 10px;
+}
+.container_Best
+{
+    float: left;
+
+    height: 41px;
+    margin-top: 17px;
+}
+.best_match
+{
+    font-weight: bold;
+
+    float: left;
+
+    height: 29px;
+    margin: 4px 0 0 11px;
+    padding-top: 5px;
+
+    border: 1px solid #fff;
+    /*width: 117px;*/
+    border-radius: 3px;
+}
+.best_match p
+{
+    font-size: 12px;
+    font-weight: bold;
+
+    margin: 6px 0 0 5px;
+
+    color: #f5e000;
+}
+.best_checkbox
+{
+    font-size: 15px;
+    font-weight: bold;
+
+    float: left;
+
+    margin-top: 7px;
+    margin-left: 6px;
+
+    color: #f5e000;
+}
+.container_Best_right
+{
+    float: right;
+
+    width: 400px;
+
+    text-align: center;
+}
+.container_Best_right,
+.container_Best_right a
+{
+    font-size: 18px;
+
+    padding: 0 3px;
+
+    color: #f5e000;
+}
+.container_Best_right img
+{
+    margin-top: 5px;
+
+    vertical-align: bottom;
+}
+.current_page
+{
+    font-size: 22px;
+    font-weight: bold;
+
+    margin: 0 5px;
+}
+.Prev,
+.Prev a
+{
+    float: left;
+
+    margin: 4px 0 0 3px;
+}
+#Prev,
+.Prev a
+{
+    float: left;
+
+    margin: 10px 3px 0 5px;
+
+    color: #f5e000;
+}
+#best_match
+{
+    font-weight: bold;
+
+    float: left;
+
+    width: 140px;
+    height: 29px;
+    margin: 6px 0 0 11px;
+    padding-top: 5px;
+
+    color: #f5e000;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    background: none;
+}
+.result_img
+{
+    max-width: 140px;
+    max-height: 215px;
+}
+.container_n
+{
+    clear: both;
+    /*width:781px;*/
+
+    width: 100%;
+}
+.container_n ul
+{
+    padding: 13px 0 0 0;
+
+    list-style: none;
+}
+
+.container_n ul li
+{
+    /*width:781px;*/
+    width: 100%;
+    /*height:225px;*/
+
+    border-bottom: #666 dotted 1px;
+}
+
+.container_n ul.features
+{
+
+    list-style: disc;
+    -webkit-padding-start: 15px;
+}
+
+.container_n ul.features li
+{
+    /*width:781px;*/
+    width: 100%;
+    /*height:225px;*/
+    border-bottom: none;
+}
+.container_n_view
+{
+    /*height:225px;*/
+    float: left;
+    /*width:181px;*/
+
+    width: 23%;
+    padding-top: 5px;
+}
+.container_n_inherit
+{
+    /*height:225px;*/
+    float: left;
+    /*width:385px;*/
+
+    width: 50%;
+    margin-left: 6px;
+}
+.container_n_inherit h1
+{
+    font-size: 18px;
+
+    margin: 6px;
+
+    color: #00166d;
+}
+.container_n_inherit p
+{
+    font-size: 16px;
+
+    margin: 5px 0 0 6px;
+
+    color: #444;
+}
+.container_n_inherit_icon
+{
+    float: left;
+
+    margin: 10px 0 0 6px;
+}
+
+#container_n_inherit_icon
+{
+    float: left;
+
+    margin: 23px 0 0 16px;
+}
+
+.container_n_inherit h2
+{
+    font-size: 13px;
+    font-weight: inherit;
+
+    float: left;
+
+    margin: 5px 0 0 6px;
+
+    color: #444;
+}
+.container_n_inheritul
+{
+    float: left;
+
+    width: 100%;
+}
+.container_n_rightul
+{
+    float: left;
+    /*width: 200px*/
+
+    width: 26%;
+    height: 225px;
+}
+.container_n_rightul h1
+{
+    font-size: 16px;
+    /* $xxx.xx each */
+
+    float: left;
+
+    margin: 6px 0 10px 78px;
+
+    color: #1f1f1f;
+}
+.container_n_rightul h2
+{
+    font-size: 13px;
+    font-weight: inherit;
+
+    float: left;
+
+    margin: 0 0 10px 80px;
+    /* $xxx.xx set of 4 */
+
+    color: #1f1f1f;
+}
+.container_n_rightul h3
+{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 32px;
+
+    float: right;
+    overflow: auto;
+
+    height: 32px;
+    margin-left: -20px;
+    padding-left: 35px;
+    /* promotions */
+
+    color: red;
+    background: url('http://tireguru-store-sites.s3.amazonaws.com/assets/img/sale_small.png') no-repeat;
+}
+#container_n_rightul
+{
+    /* price and promotions */
+    float: right;
+
+    width: 200px;
+}
+#container_n_rightuln
+{
+    /* qty dropdown and add button */
+    float: right;
+
+    width: 140px;
+    margin-top: 15px;
+}
+.item-info
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.item-info > div {
+    display: inline-flex;
+}
+.item-info-left {
+    display: flex;
+    flex-wrap: wrap;
+}
+.item-info-left > div {
+    width: 200px;
+    margin-right: 3em;
+}
+.item-features h3
+{
+    font-size: 18px;
+    font-weight: bold;
+
+    margin: 15px 0;
+
+    color: #000;
+}
+.item-features .promotions
+{
+    font-size: 20px;
+    font-weight: bold;
+
+    min-height: 70px;
+    margin: 10px 0;
+
+    vertical-align: middle;
+
+    color: red;
+}
+.item-extra-text p
+{
+    font-size: 13px;
+}
+
+/*******************
+ * installed price *
+ *******************/
+
+#installed-price
+{
+    width: 275px;
+}
+
+#installed-price tr td
+{
+    font-size: 14px;
+}
+
+/************
+ * services *
+ ************/
+
+.store-service-container
+{
+    width: 825px;
+    margin: 10px 10px 20px 10px;
+}
+
+.store-service-container .text
+{
+    margin-left: 15px;
+}
+
+.store-service-container .price
+{
+    font-size: 22px;
+    font-weight: bold;
+
+    margin: 10px;
+
+    color: #b80000;
+}
+
+.store-service-container .price small
+{
+    font-size: 13px;
+    font-style: italic;
+}
+
+img.service
+{
+    margin-left: 15px;
+
+    border: solid 1px #666;
+}
+
+img.service-cart
+{
+    width: 140px;
+
+    border: solid 1px #666;
+}
+
+img.cart-table
+{
+    width: 50px;
+    margin-right: 5px;
+}
+
+div.cart-float-remove
+{
+    position: relative;
+}
+
+div.cart-float-remove a
+{
+    position: absolute;
+    top: -20px;
+    right: -90px;
+}
+
+.shopping-cart
+{
+    width: 650px;
+}
+
+#instant-quote
+{
+    display: none;
+}
+
+/* add borders to the good/better/best images */
+.gbb-good img.gbb,
+.gbb-better img.gbb,
+.gbb-best img.gbb
+{
+    border-top: solid 1px #222;
+    border-bottom: solid 1px #222;
+}
+
+.gbb-good img.gbb
+{
+    border-left: solid 1px #222;
+}
+
+.gbb-best img.gbb
+{
+    border-right: solid 1px #222;
+}
+
+/*************
+ * locations *
+ *************/
+
+img.location
+{
+    width: 200px;
+    margin: 10px;
+
+    border: solid 1px #666;
+}
+
+/* location selection page */
+.locations-container
+{
+    width: 625px;
+    margin: 10px;
+}
+
+.section-container
+{
+    height: auto !important;
+    margin: 10px;
+}
+
+.locations-container img,
+.location-container img,
+.section-container img
+{
+    margin: 3px;
+}
+
+.location-name,
+.service-name,
+/* services - see above */
+.section-name
+{
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 10px;
+    padding: 5px;
+
+    border: solid 1px #777;
+    background: #b5cfd2 url('http://tireguru-store-sites.s3.amazonaws.com/assets/img/table-head.png');
+}
+
+.location-name a
+{
+    float: right;
+}
+
+/* single location page */
+#map-canvas,
+.map-canvas
+{
+    width: 700px;
+    height: 400px;
+
+    border: solid 1px #666;
+}
+
+.map-info
+{
+    max-width: 300px;
+    height: 145px;
+}
+
+/************
+ * services *
+ ************/
+
+.service-category
+{
+    font-size: 18px;
+    font-weight: bold;
+
+    margin: 20px;
+}
+
+.service-category img
+{
+    width: 50px;
+    margin-right: 10px;
+
+    vertical-align: middle;
+}
+
+/*****************
+* table striping *
+******************/
+
+table.stripe
+{
+    border-spacing: 0;
+    border-collapse: collapse;
+
+    border: 0;
+    margin-bottom: 35px;
+}
+
+table.stripe th,
+table.stripe td
+{
+    font-size: 13px;
+
+    padding: 10px 5px;
+}
+
+table.stripe tr.head th,
+table.stripe tr.foot td
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+table.stripe tr.head th
+{
+    border-bottom: solid 1px #444;
+}
+
+table.stripe tr.foot td
+{
+    border-top: solid 1px #444;
+}
+
+table.stripe tr.foot.no-line td
+{
+    border-top: 0;
+}
+
+table.stripe td.price
+{
+    text-align: right;
+}
+
+table.stripe tr.even,
+table.stripe tr.odd
+{
+    border-bottom: solid 1px #ccc;
+}
+
+table.stripe tr.even
+{
+    background-color: #eee;
+}
+
+/*******
+* form *
+********/
+
+form.styled div
+{
+    margin: 10px;
+}
+
+form.styled label,
+form.styled input,
+form.styled div div
+{
+    display: inline-block;
+}
+
+form.styled label:not(.normal),
+form.styled .label
+{
+    font-size: 14px;
+    font-weight: bold;
+
+    width: 140px;
+    margin-right: 10px;
+
+    text-align: right;
+
+    color: #444;
+}
+
+form.styled label:not(.normal) img
+{
+    vertical-align: middle;
+}
+
+.field
+{
+    margin-bottom: 15px;
+}
+
+
+/* logo slider */
+.carousel
+{
+    float: left;
+
+    width: 100%;
+    height: 65px;
+}
+.item img
+{
+    height: 30px !important; /* !!!TEMPORARY!!! */
+    /*margin: 16px auto;*/
+    margin: 11px 25px;
+}
+.item
+{
+    text-align: center;
+}
+.item a
+{
+    text-decoration: none;
+}
+.item a:hover
+{
+    text-decoration: none;
+}
+.carousel
+{
+    line-height: 1;
+
+    position: relative;
+}
+.carousel-inner
+{
+    position: relative;
+
+    overflow: hidden;
+
+    width: 100%;
+}
+.carousel .item
+{
+    position: relative;
+
+    display: none;
+
+    -webkit-transition: .6s ease-in-out left;
+       -moz-transition: .6s ease-in-out left;
+        -ms-transition: .6s ease-in-out left;
+         -o-transition: .6s ease-in-out left;
+            transition: .6s ease-in-out left;
+
+    background: #fff;
+}
+.carousel .item > img
+{
+    line-height: 1;
+
+    display: block;
+}
+
+/* override bootstrip.css display:block setting on this */
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img
+{
+    display: inline;
+}
+
+.carousel .active,
+.carousel .next,
+.carousel .prev
+{
+    display: block;
+}
+.carousel .active
+{
+    left: 0;
+}
+.carousel .next,
+.carousel .prev
+{
+    position: absolute;
+    top: 0;
+
+    width: 100%;
+}
+.carousel .next
+{
+    left: 100%;
+}
+.carousel .prev
+{
+    left: -100%;
+}
+.carousel .next.left,
+.carousel .prev.right
+{
+    left: 0;
+}
+.carousel .active.left
+{
+    left: -100%;
+}
+.carousel .active.right
+{
+    left: 100%;
+}
+.carousel-control
+{
+    font-size: 60px;
+    font-weight: 100;
+    line-height: 30px;
+
+    position: absolute;
+    top: 35%;
+    left: 15px;
+
+    width: 40px;
+    height: 40px;
+}
+.carousel-control.right
+{
+    right: 15px;
+    left: auto;
+}
+
+.carousel-control.right,
+.carousel-control.left
+{
+    background: none;
+}
+.carousel-control:hover
+{
+    text-decoration: none;
+
+    opacity: .9;
+    color: #fff;
+
+    filter: alpha(opacity=90);
+}
+
+/* Drive With Confidence warranty */
+.warranty h2
+{
+    color: #1869a0;
+}
+
+.warranty h3
+{
+    color: #b80000;
+}
+
+.warranty .indent
+{
+    margin-left: 35px;
+}
+
+/* Tire Protection Plan */
+.tpp p
+{
+    font-size: 12px;
+}
+
+.tpp img
+{
+    height: 90px;
+}
+
+.tpp ul li
+{
+    font-size: 14px;
+}
+
+/* testimonials */
+#testimonials-container
+{
+    height: 225px;
+    padding: 10px;
+
+    background: #ddd;
+}
+
+#testimonials .text
+{
+    font-size: 110%;
+    font-style: italic;
+
+    margin-bottom: 5px;
+}
+
+#testimonials .name
+{
+    font-size: 90%;
+}
+
+/* admin menu */
+
+#admin-menu
+{
+    z-index: 999;
+    /*position: absolute;
+	height: auto;*/
+
+    width: 250px;
+    margin: 1px;
+    padding: 3px 10px;
+
+    border: solid 1px #000;
+    background: #eee;
+}
+
+#admin-menu b
+{
+    padding-left: 22px;
+
+    background: url('http://tireguru-store-sites.s3.amazonaws.com/assets/img/menu.png') no-repeat;
+}
+
+#admin-menu ul
+{
+    margin: 10px 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+#admin-menu ul li
+{
+    font-size: 15px;
+    line-height: 25px;
+
+    border-top: solid 1px #999;
+}
+
+#admin-menu ul li a
+{
+    text-decoration: none;
+}
+
+
+
+/***************
+* SEO services *
+***************/
+
+#services-container ul li
+{
+    display: block;
+    overflow: hidden;
+
+    margin-bottom: 20px;
+    padding: 10px;
+
+    list-style: outside none none;
+}
+
+#services-container img
+{
+    float: left;
+
+    width: 100px;
+    margin: 10px;
+}
+#services-container img.schedule
+{
+    float: right;
+}
+
+#services-container h3
+{
+    margin-top: 10px;
+}
+
+#services-container h3 a
+{
+    text-decoration: none;
+}
+#services-container h3 a:hover
+{
+    text-decoration: underline;
+}
+
+#services-container .text
+{
+    font-size: 14px;
+
+    display: inline;
+    float: left;
+
+    width: 60%;
+}
+
+#services-container .service
+{
+    float: left;
+    clear: both;
+    overflow: hidden;
+
+    width: 97%;
+    margin-bottom: 20px;
+    padding: 10px;
+
+    list-style: outside none none;
+
+    border-radius: 20px;
+    background: #eee;
+}
+
+.service-view-left
+{
+    font-size: 14px;
+
+    float: left;
+    overflow: hidden;
+
+    width: 70%;
+    padding-right: 20px;
+}
+.service-view-left img
+{
+    margin: 10px;
+}
+.service-view-left h2
+{
+    color: #da1435;
+}
+.service-view-right
+{
+    float: left;
+
+    width: 20%;
+}
+#services-container-small
+{
+    overflow: hidden;
+
+    padding: 10px;
+
+    border-radius: 20px;
+    background: #eee;
+    width: 100%;
+}
+#services-container-small ul
+{
+    margin: 0;
+    padding: 0;
+}
+#services-container-small ul li
+{
+    margin: 5px 0;
+    padding: 2px 0 4px 0;
+
+    list-style-type: none;
+
+    border-bottom: solid 1px #ccc;
+}
+#services-container-small ul li a
+{
+    text-decoration: none;
+}
+#services-container-small ul li a:hover
+{
+    text-decoration: underline;
+}
+
+@media screen and (max-width:767px)
+{
+    .service-view-left,
+    .service-view-right
+    {
+        width: 98%;
+    }
+}
+
+/* make embedded YouTube videos responsive */
+.embed-container
+{
+    position: relative; overflow: hidden; max-width: 100%; height: 0; padding-bottom: 56.25%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed
+{
+    position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+}
+
+/* dynamic calendar */
+.dynamic-calendar
+{
+    font-family: 'Ubuntu', sans-serif;
+
+    width: 147px;
+    height: 156px;
+    margin: 20px auto;
+
+    background: url('/img/blank-calendar.png');
+}
+
+.dynamic-calendar a,
+.dynamic-calendar a:hover
+{
+    text-decoration: none !important;
+}
+
+.dynamic-calendar .month a,
+.dynamic-calendar .month a:hover
+{
+    color: #fff !important;
+}
+
+.dynamic-calendar .month
+{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 60px;
+
+    height: 60px;
+}
+
+.dynamic-calendar .day a,
+.dynamic-calendar .day a:hover
+{
+    color: #000 !important;
+}
+
+.dynamic-calendar .day
+{
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 75px;
+
+    height: 96px;
+}
+/* /dynamic calendar */
+
+/* dynamic calendar - non-flat style */
+.dynamic-calendar.non-flat
+{
+    width: 147px;
+    height: 175px;
+
+    background: url('/img/blank-calendar-3d.png');
+}
+
+.dynamic-calendar.non-flat .month
+{
+    line-height: 90px;
+}
+
+.dynamic-calendar.non-flat .day
+{
+    font-size: 60px;
+}
+/* /dynamic calendar - non-flat style */
+
+/* dynamic clock calendar */
+.dynamic-clock-calendar
+{
+    font-family: 'Ubuntu', sans-serif;
+
+    width: 240px;
+    height: 200px;
+    margin: 10px auto;
+
+    background: url('/img/widgets/clock-calendar.png');
+    background-repeat: no-repeat;
+    background-size: 240px, 200px;
+
+}
+
+.dynamic-clock-calendar a,
+.dynamic-clock-calendar a:hover
+{
+    text-decoration: none !important;
+}
+
+.dynamic-clock-calendar .month a,
+.dynamic-clock-calendar .month a:hover
+{
+    color: #fff !important;
+}
+
+.dynamic-clock-calendar .month
+{
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 60px;
+
+    height: 60px;
+    padding-top: 44px;
+    padding-left: 110px;
+}
+
+.dynamic-clock-calendar .day a,
+.dynamic-clock-calendar .day a:hover
+{
+    color: #000 !important;
+}
+
+.dynamic-clock-calendar .day
+{
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 75px;
+
+    height: 96px;
+    padding-top: 82px;
+    padding-left: 110px;
+}
+
+@media (max-width:1260px) and (min-width: 991px) {
+    .dynamic-clock-calendar
+    {
+        width: 160px;
+        height: 180px;
+        margin: 10px auto;
+        background: url('/img/widgets/clock-calendar.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 160px, 180px;
+
+    }
+    .dynamic-clock-calendar .month
+    {
+        font-size: 12px;
+        font-weight: bold;
+        line-height: 11%;
+        padding-top: 45px;
+        padding-left: 80px;
+    }
+    .dynamic-clock-calendar .day
+    {
+        font-size: 40px;
+        font-weight: bold;
+        padding-top: 75px;
+        padding-left: 80px;
+    }
+}
+@media (max-width:500px) {
+    .dynamic-clock-calendar
+    {
+        width: 160px;
+        height: 180px;
+        margin: 10px auto;
+        background: url('/img/widgets/clock-calendar.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 160px, 180px;
+
+    }
+    .dynamic-clock-calendar .month
+    {
+        font-size: 12px;
+        font-weight: bold;
+        line-height: 11%;
+        padding-top: 45px;
+        padding-left: 80px;
+    }
+    .dynamic-clock-calendar .day
+    {
+        font-size: 40px;
+        font-weight: bold;
+        padding-top: 75px;
+        padding-left: 80px;
+    }
+}
+/***********
+* printing *
+************/
+
+/* don't show if not printing (shows when printing) */
+.only-print
+{
+    display: none;
+}
+
+/* printing styles */
+@media print
+{
+    div.logo img
+    {
+        width: auto;
+        max-width: 500px;
+    }
+
+    /* hide link text */
+    a[href]:after
+    {
+        content: none !important;
+    }
+
+    .account-links,
+    .time_wrap,
+    .navigation,
+    .nav-tabs,
+    .carousel,
+    .footer_nav,
+    .footer-seo,
+    #footer-locations-container,
+    .btn-primary,
+    #powered-by-container,
+    .admin,
+    .no-print
+    {
+        display: none !important;
+    } /* don't show when printing */
+    .only-print
+    {
+        display: block !important;
+    } /* show when printing */
+
+    /* make all background colors white and text black */
+    body
+    {
+        color: #000; background-color: #fff;
+    }
+    table
+    {
+        color: #000; background-color: #fff;
+    }
+    th
+    {
+        color: #000; background-color: #fff;
+    }
+    tr
+    {
+        color: #000; background-color: #fff;
+    }
+    td
+    {
+        color: #000; background-color: #fff;
+    }
+    span
+    {
+        color: #000; background-color: #fff;
+    }
+    div
+    {
+        color: #000; background-color: #fff;
+    }
+    p
+    {
+        color: #000; background-color: #fff;
+    }
+}
+
+
+/**********
+ * mobile *
+ **********/
+
+#container_right .new_search
+{
+    display: none;
+}
+
+.result-qty
+{
+    margin: 10px;
+}
+
+.remove-btn-inner
+{
+    display: none;
+}
+
+@media screen and (max-width:991px)
+{
+    /* hide the refine panel */
+    #container_left
+    {
+        display: none !important;
+    }
+
+    /* hide the sort in the pagination bar */
+    .container_Best .best_match
+    {
+        display: none;
+    }
+
+    /* remove fixed widths */
+    #container_right,
+    #container_Start
+    {
+        width: auto;
+    }
+
+    /* remove fixed widths and floats */
+    .container_n,
+    .container_n_inherit,
+    .container_n_rightul
+    {
+        float: none;
+
+        width: auto;
+    }
+
+    /* show the "new search" button */
+    #container_right .new_search
+    {
+        display: block;
+    }
+
+    /* remove % widths from the containers */
+    .container_n_view,
+    .container_n_inherit,
+    .container_n_rightul
+    {
+        width: auto;
+    }
+
+    /* add some padding to the right of the image */
+    .container_n_view
+    {
+        margin-right: 10px;
+    }
+
+    /* pad below the details/installed price buttons */
+    #container_n_inherit_icon
+    {
+        float: left;
+
+        margin-bottom: 15px;
+    }
+
+    /* remove float/width on price */
+    #container_n_rightul
+    {
+        float: none;
+
+        width: auto;
+        height: auto;
+    }
+
+    .container_n_rightul
+    {
+        height: auto;
+        margin-bottom: 55px;
+        padding-bottom: 10px;
+    }
+
+    /* vertically center the price line */
+    #container_n_rightul h1,
+    #container_n_rightul h2
+    {
+        line-height: 20px;
+    }
+
+    /* increase the price each font size */
+    #container_n_rightul h1
+    {
+        font-size: 1.4em;
+    }
+
+    /* increase the set of 4 price font size */
+    #container_n_rightul h2
+    {
+        font-size: 1.1em;
+    }
+
+    /* remove float/width on "add to cart" */
+    #container_n_rightuln
+    {
+        float: none;
+        clear: both;
+
+        width: auto;
+    }
+
+    /* make qty dropdown and "add to cart" inline */
+    .result-qty
+    {
+        display: inline;
+        float: left;
+
+        margin-top: 15px;
+    }
+
+    /* remove fixed width */
+    .item-features
+    {
+        width: auto;
+    }
+
+    /* hide the extra text */
+    .item-extra-text
+    {
+        display: none;
+    }
+
+    /* move fields below the label on forms */
+    form.styled label:not(.normal),
+    form.styled .label
+    {
+        display: block;
+
+        width: auto;
+
+        text-align: left;
+    }
+
+    /* make the location Google map responsive */
+    #map-canvas,
+    .map-canvas
+    {
+        width: 95%;
+    }
+
+    /* remove fixed width */
+    .shopping-cart
+    {
+        width: 95%;
+    }
+
+    /* show the inner "remove" button */
+    .remove-btn-inner
+    {
+        display: block;
+    }
+
+    /* hide the outer "remove" button */
+    .cart-float-remove
+    {
+        display: none;
+    }
+
+    /* remove fixed width */
+    .info,
+    .success,
+    .warning,
+    .error
+    {
+        width: 80%;
+    }
+
+    /* change from inline-block to inline */
+    form.styled label,
+    form.styled input
+    {
+        display: inline;
+    }
+}
+
+
+.dropdown .dropdown-menu
+{
+    margin: 0 !important;
+
+    background-color: #eee;
+}
+
+img
+{
+    max-width: 100%;
+}
+
+.brands-promise-header
+{
+    font-size: 11px;
+    font-weight: bold;
+
+    text-transform: uppercase;
+}
+
+.promise-list
+{
+    font-weight: bold;
+
+    padding-left: 40px;
+}
+
+.modal-body-scroller
+{
+    overflow: auto;
+
+    max-height: 420px;
+}
+
+#imageSelectorModal .modal-body
+{
+    min-height: 500px;
+}
+
+#imageSelectorModal .modal-dialog
+{
+    width: 80%;
+}
+
+#imageSelectorModal input[type=file]
+{
+    display: inline-block;
+}
+
+.selector-image
+{
+    display: inline-block;
+    overflow: hidden;
+
+    width: 200px;
+    margin: 10px;
+    padding: 5px;
+
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.selector-image img
+{
+    max-width: 100%;
+    max-height: 250px;
+
+    text-overflow: ellipsis;
+}
+
+.selected
+{
+    box-shadow: 0 0 3px 2px rgba(0, 0, 0, .15);
+    /*box-shadow: 0 0 5px 5px #333;*/
+}
+
+.upload-row
+{
+    margin: 20px 25px;
+}
+
+.upload-bottom
+{
+    padding: 10px;
+}
+
+.upload-form input[type='file']
+{
+    display: inline;
+}
+
+.login-register [name = 'first_name'],
+.login-register [name = 'last_name'],
+.login-register [name = 'phone'],
+.login-register [name = 'address'],
+.login-register [name = 'city'],
+.login-register [name = 'email']
+{
+    width: 230px;
+}
+
+.login-register [name = zip]
+{
+    width: 63px;
+}
+
+.disclaimer
+{
+    font-size: 14px;
+
+    color: #ed1c24;
+}
+
+.commercial-search .label {
+    display: inline-block;
+    padding: 0;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: inherit;
+    color: #000;
+    text-align: left;
+    white-space: nowrap;
+    vertical-align: inherit;
+    border-radius: 0;
+}
+
+.commercial-search .form-row {
+    padding-bottom: 10px;
+}
+
+.commercial-search button {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.analytics-report .margin-top {
+    margin-top: 1em;
+}
+
+.analytics-report .margin-top-large {
+    margin-top: 4em;
+}
+
+.analytics-report .margin-bottom-large {
+    margin-bottom: 4em;
+}
+
+.analytics-report .condensed.row {
+    line-height: 2;
+    border-bottom: solid 1px black;
+}
+
+.analytics-report .col {
+    display: inline-block;
+    white-space: nowrap;
+    padding: 0 15px;
+    margin-right: 35px;
+}
+
+.col.responsive {
+    margin-right: 0;
+}
+
+.analytics-report .col h4 {
+    display: inline-block;
+    font-weight: normal;
+    font-size: 1em;
+}
+
+.analytics-report .col div.metric {
+    display: inline-block;
+}
+
+.analytics-report .col .graph {
+    vertical-align: bottom;
+    margin-left: 100px;
+}
+
+
+.analytics-report h2 {
+    font-size:1.5em;
+    padding:1em 0 .2em;
+    border-bottom:1px solid #bbb8b8;
+}
+
+.analytics-report h3{
+    font-size:1.2em;
+    color: inherit;
+    margin-top: 2em;
+}
+
+.analytics-report .context {
+    font-size:.8em;
+    line-height:10px;
+    color:#333;
+}
+
+.mileage {
+    display: block;
+    background-color: #005580;
+    text-align: center;
+    font-size: 14px;
+    color: #FFF;
+    border-radius: 10px;
+}
+
+#search-type {
+    text-transform: capitalize;
+}
+
+/* end @media screen and (max-width:991px) */
+/* END OF FILE */
+/* Location: /css/global.css */
